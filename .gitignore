@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+.classpath
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Testing / Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Distribution
+*.tar.gz
+*.whl
+
+# Environment variables / secrets
+.env
+.env.*
+*.pem
+*.key
+credentials.*
+
+# Logs
+*.log
+
+# Compiled C++ (test artifacts)
+*.o
+*.obj
+*.exe
+*.out
+*.dll
+*.dylib
