@@ -139,6 +139,7 @@ Each method is tagged with one of:
 ## Running Tests
 
 ```bash
+pip install -r requirements-dev.txt
 pytest tests/test_parser.py -v
 ```
 
